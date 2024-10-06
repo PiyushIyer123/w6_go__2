@@ -1,0 +1,21 @@
+## GET /books - Retrieve all books
+
+![1](https://github.com/user-attachments/assets/a4684553-d319-4814-bdea-dcad40882d12)
+
+## GET /books/{id} - Retrieve a book by ID
+
+![2](https://github.com/user-attachments/assets/b746a195-aad3-4966-b298-c507b8a506a5)
+
+## POST /books - Create a new book (send JSON body with title and author)
+
+![3](https://github.com/user-attachments/assets/90b92690-56a5-495d-9003-53707ba90c03)
+
+
+## PUT /books/{id} - Update a book by ID (send JSON body with title and author)
+
+![4](https://github.com/user-attachments/assets/a34e9b21-8161-454e-81fa-3192f0b94953)
+
+
+## DELETE /books/{id} - Delete a book by ID
+
+![5](https://github.com/user-attachments/assets/16b4f1fc-62a4-46aa-9095-c5e5179b7e9b)
